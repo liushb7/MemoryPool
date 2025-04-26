@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "atomic": "cpp"
+    },
+    "cmake.sourceDirectory": "/proj/memory-pool/v2"
+}
